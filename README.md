@@ -4,19 +4,22 @@
  
  
 ### Home page
-![1](https://user-images.githubusercontent.com/17312616/65086776-b1beb080-d9d0-11e9-9983-143d61ed8fdc.png)
+![Screenshot 2025-02-14 140126](https://github.com/user-attachments/assets/89a8379f-e327-4844-9ee7-55a11c77810f)
+
 
 
 
 ### Content Description page
-![2](https://user-images.githubusercontent.com/17312616/65086777-b1beb080-d9d0-11e9-9e2b-af3b7210bdf3.png)
 
+![Screenshot 2025-02-14 140229](https://github.com/user-attachments/assets/86530154-3731-4d98-a652-ccd1ee06b782)
 
 
 ### Ordered List page
-![3](https://user-images.githubusercontent.com/17312616/65086778-b2574700-d9d0-11e9-9377-8e4886f582a8.png)
+
+![Screenshot 2025-02-14 140309](https://github.com/user-attachments/assets/641b5622-8318-4027-a8c4-3c8472e3cfb5)
 
 
 
 ### Order confirm page
-![4](https://user-images.githubusercontent.com/17312616/65086779-b2efdd80-d9d0-11e9-95d5-4b1a48eafe04.png)
+![Screenshot 2025-02-14 140341](https://github.com/user-attachments/assets/0bc02b9c-9ac7-4bb9-822c-c0c0975a0321)
+
